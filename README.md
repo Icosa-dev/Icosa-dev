@@ -1,4 +1,4 @@
-
+Hi. I go by Hadrian. I primarily focus on systems programming, embedded systems, and game development.
 
 
 #
