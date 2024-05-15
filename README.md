@@ -1,5 +1,6 @@
 **Hi. I go by Hadrian. I primarily focus on systems programming, embedded systems, and game development.**
 
+I have a general intrest in all things computer or electric. I've worked with [logic circuits](https://circuitverse.org/users/158022), [microcontrollers and basic electronics](https://github.com/H4drian/Musicman), [robotics](https://github.com/H4drian/Vex-Competition), [backend web development](https://github.com/H4drian/OrchiDB), and much more. 
 
 #
 ### Languages and Tools
