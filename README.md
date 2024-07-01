@@ -2,9 +2,6 @@
 
 I have a general intrest in all things computer or electric. I've worked with [logic circuits](https://circuitverse.org/users/158022), [microcontrollers and basic electronics](https://github.com/H4drian/Musicman), [robotics](https://github.com/H4drian/Vex-Competition), [backend web development](https://github.com/H4drian/OrchiDB), and much more. 
 
-
-I use Arch BTW
-
 #
 ### Languages and Tools
 <img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
