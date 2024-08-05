@@ -1,23 +1,3 @@
-**Hi. I go by Hadrian. I primarily focus on systems programming, embedded systems, and game development.**
+![H4drian's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4drian&show_icons=true&theme=cobalt)](https://github.com/H4drian/main/README.md)
 
-I have a general intrest in all things computer or electric. I've worked with [logic circuits](https://circuitverse.org/users/158022), [microcontrollers and basic electronics](https://github.com/H4drian/Musicman), [robotics](https://github.com/H4drian/Vex-Competition), [backend web development](https://github.com/H4drian/OrchiDB), and much more. 
-
-#
-### Languages and Tools
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
-<img align="left" alt="Tool" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-<br />
-
-#
-### Stats
-[![H4drian's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4drian&show_icons=true&theme=cobalt)](https://github.com/H4drian/main/README.md)
+![](https://media.discordapp.net/attachments/1265771383514730497/1269640432732868722/screenshot_2024-08-04_08-57-26.png?ex=66b0cc4b&is=66af7acb&hm=94f8cee07a98056daa83c63a3c65f940d960f820451d8b12a87a5535ace9641f&=&format=webp&quality=lossless)
