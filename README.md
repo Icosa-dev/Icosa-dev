@@ -3,5 +3,4 @@
 Leon Cotten <br>
 I also go by LJC, ljc, and Icosa.
 
-[My GitLab](https://gitlab.com/Icosaa) <br>
 [My Codeberg (main)](https://codeberg.org/Icosa-dev)
