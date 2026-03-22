@@ -13,7 +13,7 @@ I go by Icosa-dev, LJC, or Leon Cotten
 - JavaScript
 - Rust
 - C 
-##### Some Experience With (made minor projects with or used for scripting other programs): 
+#### Some Experience With (made minor projects with or used for scripting other programs): 
 - C#
 - Haskell
 - Go
